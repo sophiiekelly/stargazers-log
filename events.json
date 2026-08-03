@@ -1,0 +1,30 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "description": "A friendly starter project for learning GitHub workflows.",
+    "language": "HTML",
+    "stars": 128,
+    "url": "https://github.com/octocat/hello-world"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "language": "Markdown",
+    "stars": 542,
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, the popular code editor.",
+    "language": "TypeScript",
+    "stars": 174000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for building full-stack web applications.",
+    "language": "JavaScript",
+    "stars": 121000,
+    "url": "https://github.com/vercel/next.js"
+  }
+]
